@@ -1,0 +1,22 @@
+body {
+    font-family: poppins;
+    background: url(7100.jpg);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: clamp(100%);
+}
+input {
+    outline: 0;
+    padding: 0.5% 1% ;
+    background-color: whitesmoke;
+    border: none;
+    box-shadow: black(1% 0 2% 0);
+    margin: 0 0.5% 0 0.5%;
+    font-weight: bold;
+}
+h2 {
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
